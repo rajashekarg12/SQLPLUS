@@ -1,5 +1,5 @@
 -- Create a PL/SQL file named "student_example.sql"
-Spool raj.txt
+Spool raj.csv
 
 -- Drop the table if it exists
 BEGIN
