@@ -10,7 +10,7 @@ END;
 /
 
 -- Create a table for students
-CREATE TABLE students (
+CREATE TABL students (
     student_id NUMBER PRIMARY KEY,
     student_name VARCHAR2(100),
     student_age NUMBER,
