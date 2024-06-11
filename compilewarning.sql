@@ -20,5 +20,4 @@ BEGIN
         
     END;
 END;
-SHOW ERRORS;
 /
