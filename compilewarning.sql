@@ -1,4 +1,3 @@
-set serveroutput on
 CREATE OR REPLACE PROCEDURE generate_warnings AS
 BEGIN
     DECLARE
