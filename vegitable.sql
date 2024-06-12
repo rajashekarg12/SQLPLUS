@@ -1,5 +1,6 @@
 -- Create a PL/SQL file named "vegetable_example.sql"
 
+set serveroutput on;
 
 
 -- Drop the table if it exists
