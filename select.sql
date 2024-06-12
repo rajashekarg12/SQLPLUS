@@ -1,1 +1,1 @@
-select * from ${{TABLE_NAME};
+select * from ${{TABLE_NAME}};
