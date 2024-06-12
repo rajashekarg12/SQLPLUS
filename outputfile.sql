@@ -9,6 +9,10 @@ EXCEPTION
 END;
 /
 
+
+
+    
+
 -- Create a table for students
 CREATE TABLe students (
     student_id NUMBER PRIMARY KEY,
