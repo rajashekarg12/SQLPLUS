@@ -1,5 +1,5 @@
 -- Create a PL/SQL file named "student_example.sql"
-
+set serveroutput on
 -- Drop the table if it exists
 BEGIN
     EXECUTE IMMEDIATE 'DROP TABLE students';
