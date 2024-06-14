@@ -1,2 +1,2 @@
-ALTER SESSION SET current_schema=${{MYINST:MYSCHEMA}};
+ALTER SESSION SET current_schema=${{Development-Windows:MYSCHEMA}};
 select * from student;
