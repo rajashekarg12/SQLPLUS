@@ -1,5 +1,5 @@
 -- Create a PL/SQL file named "student_example.sql"
-Spool D:\sqlprchanges56\raj6.txt;
+Spool /var/tmp/flexdeploy/raj6.txt;
 
 -- Drop the table if it exists
 BEGIN
