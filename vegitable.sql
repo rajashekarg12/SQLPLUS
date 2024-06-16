@@ -1,6 +1,6 @@
 -- Create a PL/SQL file named "vegetable_example.sql"
 
-spool /var/tmp/flexdeploy/sqlplustest/testflie.txt
+spool testflie.txt
 
 
 -- Drop the table if it exists
