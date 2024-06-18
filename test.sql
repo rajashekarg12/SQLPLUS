@@ -1,2 +1,2 @@
 
-select * from ${{TABLE_NAME}}
+selec * from dual
