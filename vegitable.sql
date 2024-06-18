@@ -19,7 +19,7 @@ CREATE TABLE veggietables (
     vegtable_name VARCHAR2(100),
     vegtable_quantity NUMBER,
     vegtable_category VARCHAR2(50)
-)
+);
 
 -- Insert some sample data
 INSERT INTO veggietables (vegtable_id, vegtable_name, vegtable_quantity, vegtable_category)
