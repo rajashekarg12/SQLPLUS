@@ -66,5 +66,5 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Vegetable Table Quantity: ' || v_vegtable_quantity);
     DBMS_OUTPUT.PUT_LINE('Vegetable Table Category: ' || v_vegtable_category);
 
-END;
+END
 /
