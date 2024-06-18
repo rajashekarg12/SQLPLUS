@@ -19,7 +19,7 @@ CREATE TABLE veggietables (
     vegtable_name VARCHAR2(100),
     vegtable_quantity NUMBER,
     vegtable_category VARCHAR2(50)
-);
+)
 
 -- Insert some sample data
 INSERT INTO veggietables (vegtable_id, vegtable_name, vegtable_quantity, vegtable_category)
@@ -66,5 +66,5 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Vegetable Table Quantity: ' || v_vegtable_quantity);
     DBMS_OUTPUT.PUT_LINE('Vegetable Table Category: ' || v_vegtable_category);
 
-END
+END;
 /
