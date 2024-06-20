@@ -1,4 +1,5 @@
-!SEQ
-SCHEMAtype.sql
-jdbc.sql
-outputfile.sql
+--!SEQ
+--SCHEMAtype.sql
+--jdbc.sql
+--outputfile.sql
+@check.sql
