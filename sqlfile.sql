@@ -1,1 +1,1 @@
-ALTER SESSION SET current_schema=${{FD_TARGET_GROUP_CODE:MYSCHEMA}} 
+ALTER SESSION SET current_schema=${{MYSCHEMA}};
