@@ -1,3 +1,4 @@
-@SCHEMAtype.sql
-@jdbc.sql
-@outputfile.sql
+!SQL
+SCHEMAtype.sql
+jdbc.sql
+outputfile.sql
