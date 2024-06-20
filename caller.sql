@@ -1,4 +1,4 @@
-ALTER SESSION SET current_schema=${{MYSCHEMA}} ;
+ALTER SESSION SET current_schema=${{MYSCHEMA}};
   
 CREATE OR REPLACE PACKAGE emp_mgmt AS
    FUNCTION hire (last_name VARCHAR2, job_id VARCHAR2, 
