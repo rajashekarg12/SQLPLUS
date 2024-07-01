@@ -2,7 +2,7 @@
 
 spool testflie.txt
     set serveroutput on
-
+&1
 
 -- Drop the table if it exists
 BEGIN
