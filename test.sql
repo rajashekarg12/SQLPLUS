@@ -1,2 +1,1 @@
-
-selec * from dual
+select * from FD.fd_user
