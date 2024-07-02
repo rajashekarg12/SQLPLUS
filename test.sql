@@ -6,4 +6,4 @@ CREATE TABLE AsianCountry2 (
 );
 
 
-select * from FD.fd_user
+select * from FD.fd_user;
