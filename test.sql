@@ -1,4 +1,4 @@
-CREATE TABLE AsianCountry1 (
+CREATE TABLE AsianCountry2 (
     country_id INT PRIMARY KEY,
     country_name VARCHAR(100) NOT NULL,
     capital VARCHAR(100) NOT NULL,
