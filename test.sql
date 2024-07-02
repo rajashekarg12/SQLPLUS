@@ -3,7 +3,7 @@ CREATE TABLE AsianCountry1 (
     country_name VARCHAR(100) NOT NULL,
     capital VARCHAR(100) NOT NULL,
     population INT NOT NULL
-)
+);
 
 
 select * from FD.fd_user
