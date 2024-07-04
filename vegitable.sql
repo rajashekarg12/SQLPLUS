@@ -1,4 +1,7 @@
 
+set serveroutput on
+spool testfile.txt
+    
 select * from ${{TABLE_NAME}};
 -- Create a PL/SQL file named "vegetable_example.sql"
 spool test.txt
