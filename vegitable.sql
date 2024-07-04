@@ -1,3 +1,4 @@
+set serveroutput on
 -- Create a PL/SQL file named "vegetable_example.sql"
 
 
