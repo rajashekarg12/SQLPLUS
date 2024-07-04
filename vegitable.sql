@@ -1,6 +1,6 @@
 set serveroutput on
 -- Create a PL/SQL file named "vegetable_example.sql"
-
+spool test.txt
 
 -- Drop the table if it exists
 BEGIN
