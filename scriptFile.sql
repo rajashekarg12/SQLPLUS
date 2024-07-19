@@ -65,4 +65,4 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Vegetable Table Category: ' || v_vegtable_category);
 
 END;
-select * student;
+select * from student;
