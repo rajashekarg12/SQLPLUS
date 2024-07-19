@@ -1,3 +1,3 @@
-select * from ${{TABLE_NAME}};
+select * from dual;
 
 
