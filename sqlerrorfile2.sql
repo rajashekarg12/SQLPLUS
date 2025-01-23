@@ -1,6 +1,6 @@
 
 -- Create a table
-CREATE TABLE employees (
+CREATE TABLE employees1 (
     id NUMBER PRIMARY KEY,
     name VARCHAR2(5),
     department VARCHAR2(50),
