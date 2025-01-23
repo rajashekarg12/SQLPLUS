@@ -1,1 +1,1 @@
-select * from dual55;
+selec * from students;
