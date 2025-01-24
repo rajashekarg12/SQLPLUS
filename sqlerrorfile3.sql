@@ -8,5 +8,5 @@ CREATE TABLE President (
 );
 
 -- Insert a row into the table
-INSERT INTO employees (id, name, department, salary) 
-VALUES (1, 'MODI', 'PM', 50000.00);
+INSERT INTO President (id, name, department, salary) 
+VALUES (1, 'MODI', 'PM', 50000.00.00);
