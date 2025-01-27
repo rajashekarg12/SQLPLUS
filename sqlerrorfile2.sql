@@ -9,4 +9,4 @@ CREATE TABLE employees1 (
 
 -- Insert a row into the table
 INSERT INTO employees (id, name, department, salary) 
-VALUES (1, 'Trump Donald', 'HR', 50000);
+VALUES (1, 'Trump Donald', 'HR', 0.50000);
